@@ -177,7 +177,7 @@ const swayam = {
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Activity Graph**
 
-[![Swayam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=swayamparekh&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D847&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Swayam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=swyxm&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D847&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
