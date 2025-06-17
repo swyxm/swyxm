@@ -1,13 +1,13 @@
 # <div align="center">
   
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Swayam%20Parekh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20+%20Business%20@%20USC%20|%20Full-Stack%20Developer%20|%20AI%20Enthusiast&descAlignY=51&descAlign=50)
+  ![Header](https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=2,9,12,15,17&height=350&section=header&text=Swayam%20Parekh&fontSize=65&fontColor=ffffff&animation=blinking&fontAlignY=42&desc=✨%20Fighting%20On%20•%20CS%20+%20BA%20@%20USC%20•%20Building%20Tomorrow's%20Tech%20✨&descAlignY=60&descAlign=50&descSize=18)
 
 </div>
 
 <div align="center">
   
   <!-- Typing Animation -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+the+future%2C+one+commit+at+a+time;Turning+coffee+into+code+since+2020;Always+learning%2C+always+creating)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=990000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Fight+On!+🏛️+Building+the+future%2C+one+commit+at+a+time;From+the+City+of+Angels+to+the+cloud+☁️;Trojan+by+day%2C+code+warrior+by+night+⚔️)](https://git.io/typing-svg)
 
 </div>
 
@@ -246,7 +246,7 @@ while (alive) {
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=2,9,12,15,17&height=120&section=footer&reversal=true" width="100%">
 
 **Thanks for visiting! ⭐ Star my repos if you find them interesting!**
 
