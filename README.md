@@ -1,13 +1,13 @@
 # <div align="center">
   
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,21&height=280&section=header&text=Swayam%20Parekh&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20+%20BA%20@%20USC&descAlignY=51&descAlign=50)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,161b22,21262d,30363d,1a1e23&height=280&section=header&text=Swayam%20Parekh&fontSize=45&fontColor=c9d1d9&animation=fadeIn&fontAlignY=38&desc=CS%20+%20BA%20@%20USC&descAlignY=51&descAlign=50)
 
 </div>
 
 <div align="center">
   
   <!-- Typing Animation -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&height=60&lines=Full-Stack+Developer+%26+AI+Enthusiast;Building+elegant+solutions+with+clean+code;Always+learning%2C+always+creating)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=7aa2f7&center=true&vCenter=true&width=600&height=60&lines=Full-Stack+Developer+%26+AI+Enthusiast;Building+elegant+solutions+with+clean+code;Always+learning%2C+always+creating)](https://git.io/typing-svg)
 
 </div>
 
@@ -159,15 +159,15 @@ const swayam = {
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> **GitHub Stats**
 
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=swayamparekh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D847&text_color=FFFFFF&ring_color=F85D7F" alt="GitHub Stats">
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=swyxm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c9d1d9&ring_color=7aa2f7" alt="GitHub Stats">
 
-<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=swayamparekh&theme=tokyonight&hide_border=true&background=0D1117&stroke=0000&ring=F85D7F&fire=F8D847&currStreakLabel=FFFFFF" alt="GitHub Streak">
+<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=swyxm&theme=tokyonight&hide_border=true&background=0D1117&stroke=0000&ring=7aa2f7&fire=bb9af7&currStreakLabel=c9d1d9" alt="GitHub Streak">
 
 </div>
 
 <div align="center">
 
-<img width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swayamparekh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages">
+<img width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swyxm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&text_color=c9d1d9" alt="Top Languages">
 
 </div>
 
@@ -177,7 +177,7 @@ const swayam = {
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> **Activity Graph**
 
-[![Swayam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=swayamparekh&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D847&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Swayam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=swyxm&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7aa2f7&line=bb9af7&point=c9d1d9)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -187,7 +187,7 @@ const swayam = {
 
 ## 🏆 **Achievements & Recognition**
 
-<img src="https://github-profile-trophy.vercel.app/?username=swayamparekh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies">
+<img src="https://github-profile-trophy.vercel.app/?username=swyxm&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies">
 
 ### **Notable Accomplishments**
 🥇 **USC Innovation Challenge Winner 2024** - Best AI/ML Project  
@@ -246,10 +246,10 @@ while (alive) {
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,21&height=100&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,161b22,21262d,30363d,1a1e23&height=100&section=footer" width="100%">
 
 **Thanks for visiting! ⭐ Star my repos if you find them interesting!**
 
-![Visitor Count](https://profile-counter.glitch.me/swayamparekh/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/swyxm/count.svg)
 
 </div>
