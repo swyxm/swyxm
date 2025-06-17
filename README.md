@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Header](https://drive.google.com/uc?export=view&id=1HUAqy2YEEur4j8sdktQFF-0RcnVKPz-s)
+![Header]((https://drive.google.com/file/d/1m3UNRVwrPOWkIdHK7A02xjAnGpFqc55))
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&pause=800&color=00FFD2&center=true&vCenter=true&width=500&height=50&lines=Building+next-gen+experiences;AI+%2B+Web3+%2B+Full-Stack;Coffee+%E2%98%95+Code+%E2%9C%A8+Creativity)](https://git.io/typing-svg)
 
