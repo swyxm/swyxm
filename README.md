@@ -1,13 +1,13 @@
 # <div align="center">
   
-  ![Header](https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=2,9,12,15,17&height=350&section=header&text=Swayam%20Parekh&fontSize=65&fontColor=ffffff&animation=blinking&fontAlignY=42&desc=✨%20Fighting%20On%20•%20CS%20+%20BA%20@%20USC%20•%20Building%20Tomorrow's%20Tech%20✨&descAlignY=60&descAlign=50&descSize=18)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,21&height=280&section=header&text=Swayam%20Parekh&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20+%20BA%20@%20USC&descAlignY=51&descAlign=50)
 
 </div>
 
 <div align="center">
   
   <!-- Typing Animation -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=990000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Fight+On!+🏛️+Building+the+future%2C+one+commit+at+a+time;From+the+City+of+Angels+to+the+cloud+☁️;Trojan+by+day%2C+code+warrior+by+night+⚔️)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&height=60&lines=Full-Stack+Developer+%26+AI+Enthusiast;Building+elegant+solutions+with+clean+code;Always+learning%2C+always+creating)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,15 +15,15 @@
 
 <div align="center">
 
-### 🌟 **Welcome to my digital universe** 🌟
+### 🌟 **Welcome to my digital space** 
 
-*Where creativity meets code and innovation never sleeps*
+*Where creativity meets code*
 
 </div>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **About Me**
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **About Me**
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ```javascript
 const swayam = {
@@ -40,7 +40,7 @@ const swayam = {
         aiMl: ["TensorFlow", "PyTorch", "OpenAI", "Hugging Face"]
     },
     currentlyLearning: "Advanced System Design & Web3 Development",
-    funFact: "I debug code faster than I can solve a Rubik's cube! 🧩"
+    funFact: "I solve bugs faster than I can solve Rubik's cubes 🧩"
 };
 ```
 
@@ -48,7 +48,7 @@ const swayam = {
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **Tech Arsenal**
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> **Tech Stack**
 
 ### **Languages & Frameworks**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -76,7 +76,7 @@ const swayam = {
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Featured Projects**
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="35"> **Featured Projects**
 
 </div>
 
@@ -157,7 +157,7 @@ const swayam = {
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **GitHub Analytics**
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> **GitHub Stats**
 
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=swayamparekh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D847&text_color=FFFFFF&ring_color=F85D7F" alt="GitHub Stats">
 
@@ -175,9 +175,9 @@ const swayam = {
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Activity Graph**
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> **Activity Graph**
 
-[![Swayam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=swyxm&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D847&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Swayam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=swayamparekh&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D847&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -202,9 +202,9 @@ const swayam = {
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="40"> **Let's Connect & Collaborate**
+## <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="35"> **Let's Connect**
 
-*Always excited to discuss new opportunities, innovative projects, and cutting-edge technologies!*
+*Open to collaboration and new opportunities*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swayamparekh)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/swayamparekh)
@@ -246,7 +246,7 @@ while (alive) {
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=2,9,12,15,17&height=120&section=footer&reversal=true" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,21&height=100&section=footer" width="100%">
 
 **Thanks for visiting! ⭐ Star my repos if you find them interesting!**
 
