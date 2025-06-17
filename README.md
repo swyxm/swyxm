@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=SWAYAM%20PAREKH&fontSize=60&fontColor=00FFD2&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Engineer&descSize=20&descAlignY=55&descColor=FF4499)
+![Header]([https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=SWAYAM%20PAREKH&fontSize=60&fontColor=00FFD2&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Engineer&descSize=20&descAlignY=55&descColor=FF4499](https://drive.google.com/file/d/1HUAqy2YEEur4j8sdktQFF-0RcnVKPz-s/view?usp=sharing))
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&pause=800&color=00FFD2&center=true&vCenter=true&width=500&height=50&lines=Building+next-gen+experiences;AI+%2B+Web3+%2B+Full-Stack;Coffee+%E2%98%95+Code+%E2%9C%A8+Creativity)](https://git.io/typing-svg)
 
