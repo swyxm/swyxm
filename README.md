@@ -14,16 +14,17 @@
 ## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> About Me
 
 
-const dev = {
-  name: "swayam parekh",
-  location: ["los angeles, ca ☀️", "san francisco, ca 🌉", "toronto, on 🍁"],
-  education: "usc <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/USC_Trojans_logo.svg/20px-USC_Trojans_logo.svg.png' alt='USC Logo' width='18' style='vertical-align: text-bottom;'>",
-  focus: ["Full-Stack", "AI/ML", "Web3"],
-  languages: ["JavaScript", "Python", "TypeScript", "Go"],
-  currentProject: "Next-gen AI applications",
-  coffeeLevel: "██████████ 100%",
-  vibeCheck: "🌸 aesthetic coding sessions"
+const dev = {<br>
+&nbsp;&nbsp;name: "swayam parekh",<br>
+&nbsp;&nbsp;location: ["los angeles, ca ☀️", "san francisco, ca 🌉", "toronto, on 🍁"],<br>
+&nbsp;&nbsp;education: "usc <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/USC_Trojans_logo.svg/20px-USC_Trojans_logo.svg.png' alt='USC Logo' width='14' style='vertical-align: text-bottom;'>",<br>
+&nbsp;&nbsp;focus: ["Full-Stack", "AI/ML", "Web3"],<br>
+&nbsp;&nbsp;languages: ["JavaScript", "Python", "TypeScript", "Go"],<br>
+&nbsp;&nbsp;currentProject: "Next-gen AI applications",<br>
+&nbsp;&nbsp;coffeeLevel: "██████████ 100%",<br>
+&nbsp;&nbsp;vibeCheck: "🌸 aesthetic coding sessions"<br>
 }
+
 
 
 <div align="center">
