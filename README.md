@@ -4,7 +4,7 @@
 
 ![Header](https://drive.google.com/uc?export=view&id=1m3UNRVwrPOWkIdHK7A02xjAnGpFqc55-)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=sora&size=18&duration=2000&pause=800&color=0AA9DC&center=true&vCenter=true&width=500&height=50&lines=Building+next-gen+experiences;AI+%2B+Web3+%2B+Full-Stack;Coffee+%E2%98%95+Code+%E2%9C%A8+Creativity)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=sora&size=24&duration=2000&pause=800&color=2C73BB&center=true&vCenter=true&width=500&height=50&lines=Building+next-gen+experiences;AI+%2B+Web3+%2B+Full-Stack;Coffee+%E2%98%95+Code+%E2%9C%A8+Creativity)](https://git.io/typing-svg)
 
 </div>
 
