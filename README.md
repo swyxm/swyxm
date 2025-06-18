@@ -22,9 +22,8 @@ const dev = {
     education: "usc ✌️🔴🟡", 
     focus: ["Full-Stack", "AI/ML", "Web3"],
     languages: ["JavaScript", "Python", "TypeScript", "Go"],
-    currentProject: "Next-gen AI applications",
-    coffeeLevel: "██████████ 100%",
-    vibeCheck: "🌸 aesthetic coding sessions"
+    currently: "reimagining medtech",
+    coffeeLevel: "☕️☕️☕️☕️☕️☕️☕️░░░ 75%",
 };
 ```
 
