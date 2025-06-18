@@ -39,20 +39,30 @@ const dev = {
 
 <div align="center">
 
+![C++](https://img.shields.io/badge/C++-1a1225?style=for-the-badge&logo=c%2B%2B&logoColor=0AA9DC)
+![Python](https://img.shields.io/badge/Python-1a1225?style=for-the-badge&logo=python&logoColor=E079CE)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1a1225?style=for-the-badge&logo=javascript&logoColor=0AA9DC)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1a1225?style=for-the-badge&logo=typescript&logoColor=0AA9DC)
-![Python](https://img.shields.io/badge/Python-1a1225?style=for-the-badge&logo=python&logoColor=E079CE)
-![Go](https://img.shields.io/badge/Go-1a1225?style=for-the-badge&logo=go&logoColor=0AA9DC)
+![HTML](https://img.shields.io/badge/HTML-1a1225?style=for-the-badge&logo=html5&logoColor=E079CE)
+![CSS](https://img.shields.io/badge/CSS-1a1225?style=for-the-badge&logo=css3&logoColor=0AA9DC)
+![Swift](https://img.shields.io/badge/Swift-1a1225?style=for-the-badge&logo=swift&logoColor=E079CE)
+![SQL](https://img.shields.io/badge/SQL-1a1225?style=for-the-badge&logo=mysql&logoColor=0AA9DC)
 
 ![React](https://img.shields.io/badge/React-1a1225?style=for-the-badge&logo=react&logoColor=0AA9DC)
 ![Next.js](https://img.shields.io/badge/Next.js-1a1225?style=for-the-badge&logo=next.js&logoColor=754A93)
-![Node.js](https://img.shields.io/badge/Node.js-1a1225?style=for-the-badge&logo=node.js&logoColor=0AA9DC)
-![Express](https://img.shields.io/badge/Express-1a1225?style=for-the-badge&logo=express&logoColor=754A93)
-
-![AWS](https://img.shields.io/badge/AWS-1a1225?style=for-the-badge&logo=amazon-aws&logoColor=E079CE)
+![Electron](https://img.shields.io/badge/Electron-1a1225?style=for-the-badge&logo=electron&logoColor=0AA9DC)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1a1225?style=for-the-badge&logo=tailwind-css&logoColor=0AA9DC)
+![Vue.js](https://img.shields.io/badge/Vue.js-1a1225?style=for-the-badge&logo=vue.js&logoColor=E079CE)
+![Figma](https://img.shields.io/badge/Figma-1a1225?style=for-the-badge&logo=figma&logoColor=0AA9DC)
+![Django](https://img.shields.io/badge/Django-1a1225?style=for-the-badge&logo=django&logoColor=E079CE)
+![OpenCV](https://img.shields.io/badge/OpenCV-1a1225?style=for-the-badge&logo=opencv&logoColor=0AA9DC)
+![Git](https://img.shields.io/badge/Git-1a1225?style=for-the-badge&logo=git&logoColor=E079CE)
 ![Docker](https://img.shields.io/badge/Docker-1a1225?style=for-the-badge&logo=docker&logoColor=0AA9DC)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1225?style=for-the-badge&logo=postgresql&logoColor=0AA9DC)
 ![MongoDB](https://img.shields.io/badge/MongoDB-1a1225?style=for-the-badge&logo=mongodb&logoColor=E079CE)
+
+</div>
+
 
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="80">
 
