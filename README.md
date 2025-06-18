@@ -4,7 +4,7 @@
 
 ![Header](https://drive.google.com/uc?export=view&id=1m3UNRVwrPOWkIdHK7A02xjAnGpFqc55-)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&pause=800&color=00FFD2&center=true&vCenter=true&width=500&height=50&lines=Building+next-gen+experiences;AI+%2B+Web3+%2B+Full-Stack;Coffee+%E2%98%95+Code+%E2%9C%A8+Creativity)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=orbitron&size=18&duration=2000&pause=800&color=0AA9DC&center=true&vCenter=true&width=500&height=50&lines=Building+next-gen+experiences;AI+%2B+Web3+%2B+Full-Stack;Coffee+%E2%98%95+Code+%E2%9C%A8+Creativity)](https://git.io/typing-svg)
 
 </div>
 
@@ -35,20 +35,20 @@ const developer = {
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1225?style=for-the-badge&logo=javascript&logoColor=00FFD2)
-![TypeScript](https://img.shields.io/badge/TypeScript-1a1225?style=for-the-badge&logo=typescript&logoColor=00FFD2)
-![Python](https://img.shields.io/badge/Python-1a1225?style=for-the-badge&logo=python&logoColor=FF4499)
-![Go](https://img.shields.io/badge/Go-1a1225?style=for-the-badge&logo=go&logoColor=00FFD2)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1225?style=for-the-badge&logo=javascript&logoColor=0AA9DC)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1225?style=for-the-badge&logo=typescript&logoColor=0AA9DC)
+![Python](https://img.shields.io/badge/Python-1a1225?style=for-the-badge&logo=python&logoColor=E079CE)
+![Go](https://img.shields.io/badge/Go-1a1225?style=for-the-badge&logo=go&logoColor=0AA9DC)
 
-![React](https://img.shields.io/badge/React-1a1225?style=for-the-badge&logo=react&logoColor=00FFD2)
-![Next.js](https://img.shields.io/badge/Next.js-1a1225?style=for-the-badge&logo=next.js&logoColor=c9d1d9)
-![Node.js](https://img.shields.io/badge/Node.js-1a1225?style=for-the-badge&logo=node.js&logoColor=00FFD2)
-![Express](https://img.shields.io/badge/Express-1a1225?style=for-the-badge&logo=express&logoColor=c9d1d9)
+![React](https://img.shields.io/badge/React-1a1225?style=for-the-badge&logo=react&logoColor=0AA9DC)
+![Next.js](https://img.shields.io/badge/Next.js-1a1225?style=for-the-badge&logo=next.js&logoColor=754A93)
+![Node.js](https://img.shields.io/badge/Node.js-1a1225?style=for-the-badge&logo=node.js&logoColor=0AA9DC)
+![Express](https://img.shields.io/badge/Express-1a1225?style=for-the-badge&logo=express&logoColor=754A93)
 
-![AWS](https://img.shields.io/badge/AWS-1a1225?style=for-the-badge&logo=amazon-aws&logoColor=FF4499)
-![Docker](https://img.shields.io/badge/Docker-1a1225?style=for-the-badge&logo=docker&logoColor=00FFD2)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1225?style=for-the-badge&logo=postgresql&logoColor=00FFD2)
-![MongoDB](https://img.shields.io/badge/MongoDB-1a1225?style=for-the-badge&logo=mongodb&logoColor=FF4499)
+![AWS](https://img.shields.io/badge/AWS-1a1225?style=for-the-badge&logo=amazon-aws&logoColor=E079CE)
+![Docker](https://img.shields.io/badge/Docker-1a1225?style=for-the-badge&logo=docker&logoColor=0AA9DC)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1225?style=for-the-badge&logo=postgresql&logoColor=0AA9DC)
+![MongoDB](https://img.shields.io/badge/MongoDB-1a1225?style=for-the-badge&logo=mongodb&logoColor=E079CE)
 
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="80">
 
@@ -81,7 +81,7 @@ Real-time AI integration with **10K+ users**
 
 Automated trading with **$500K+ volume**
 
-[![Live](https://img.shields.io/badge/Live-1a1225?style=for-the-badge&logo=ethereum&logoColor=FF4499)](https://github.com)
+[![Live](https://img.shields.io/badge/Live-1a1225?style=for-the-badge&logo=ethereum&logoColor=E079CE)](https://github.com)
 
 </td>
 </tr>
@@ -93,9 +93,9 @@ Automated trading with **$500K+ volume**
 
 <div align="center">
 
-[![Swayam's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=swyxm&theme=tokyo-night&hide_border=true&bg_color=000F18&color=0AA9DC&line=AA3495&point=E079CE&area=true&area_color=000F18)](https://github.com/swyxm)
+[![Swayam's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=swyxm&theme=tokyo-night&hide_border=true&bg_color=010812&color=0AA9DC&line=AA3495&point=E079CE&area=true&area_color=010812)](https://github.com/swyxm)
 
-[![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=swyxm&theme=tokyonight&background=0d0b1a&stroke=00ffd2&ring=ff4499&fire=00ffd2&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=00ffd2&border=1a1225)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=swyxm&theme=tokyonight&background=010812&stroke=0AA9DC&ring=ff4499&fire=00ffd2&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=00ffd2&border=1a1225)](https://git.io/streak-stats)
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="80">
 
@@ -107,10 +107,10 @@ Automated trading with **$500K+ volume**
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-1a1225?style=for-the-badge&logo=safari&logoColor=00FFD2)](https://swayamparekh.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1225?style=for-the-badge&logo=linkedin&logoColor=00FFD2)](https://linkedin.com/in/swayamparekh)
-[![Twitter](https://img.shields.io/badge/Twitter-1a1225?style=for-the-badge&logo=twitter&logoColor=FF4499)](https://twitter.com/swayamparekh)
-[![Email](https://img.shields.io/badge/Email-1a1225?style=for-the-badge&logo=gmail&logoColor=FF4499)](mailto:hello@swayamparekh.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a1225?style=for-the-badge&logo=safari&logoColor=0AA9DC)](https://swym.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1225?style=for-the-badge&logo=linkedin&logoColor=0AA9DC)](https://linkedin.com/in/swayampa)
+[![Twitter](https://img.shields.io/badge/Twitter-1a1225?style=for-the-badge&logo=twitter&logoColor=E079CE)](https://twitter.com/swayampa)
+[![Email](https://img.shields.io/badge/Email-1a1225?style=for-the-badge&logo=gmail&logoColor=E079CE)](mailto:swayampa@usc.edu)
 
 <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="100">
 
