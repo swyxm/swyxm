@@ -27,12 +27,6 @@ const dev = {
 };
 ```
 
-
-
-<div align="center">
-<img src="https://media.giphy.com/media/3o7qDSOvfaCO9b3MlO/giphy.gif" width="50">
-</div>
-
 ---
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tech Stack
@@ -63,7 +57,7 @@ const dev = {
 
 </div>
 
-
+<div align = "center">
 
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="80">
 
