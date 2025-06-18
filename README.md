@@ -13,17 +13,18 @@
 
 ## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> About Me
 
-```javascript
-const developer = {
-    name: "Swayam Parekh",
-    location: "Los Angeles, CA ☀️",
-    education: "USC Trojan 🏛️", 
-    focus: ["Full-Stack", "AI/ML", "Web3"],
-    languages: ["JavaScript", "Python", "TypeScript", "Go"],
-    currentProject: "Next-gen AI applications",
-    coffeeLevel: "██████████ 100%",
-    vibeCheck: "🌸 aesthetic coding sessions"
-};
+```
+const dev = {
+  name: "swayam parekh",
+  location: ["los angeles, ca ☀️", "san francisco, ca 🌉", "toronto, on 🍁"],
+  education: "usc <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/USC_Trojans_logo.svg/20px-USC_Trojans_logo.svg.png' alt='USC Logo' width='18' style='vertical-align: text-bottom;'>",
+  focus: ["Full-Stack", "AI/ML", "Web3"],
+  languages: ["JavaScript", "Python", "TypeScript", "Go"],
+  currentProject: "Next-gen AI applications",
+  coffeeLevel: "██████████ 100%",
+  vibeCheck: "🌸 aesthetic coding sessions"
+}
+
 ```
 
 <div align="center">
