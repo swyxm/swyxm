@@ -4,7 +4,7 @@
 
 ![Header](https://drive.google.com/uc?export=view&id=1m3UNRVwrPOWkIdHK7A02xjAnGpFqc55-)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sora&size=24&duration=2000&pause=800&color=248BCD&center=true&vCenter=true&width=500&height=50&lines=Welcome;Bienvenue;Bienvenido;欢迎;स्वागत+है;أهلاً+وسهلاً;Добро+пожаловать;ようこそ;Willkommen;Benvenuto)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sora&size=30&duration=1500&pause=300&color=248BCD&center=true&vCenter=true&width=600&height=50&lines=Welcome+👋;Bienvenue+👋;Bienvenido+👋;欢迎+👋;स्वागत+है+👋;أهلاً+وسهلاً+👋;Добро+пожаловать+👋;ようこそ+👋;Willkommen+👋)]()
 
 
 </div>
