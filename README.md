@@ -93,7 +93,7 @@ Automated trading with **$500K+ volume**
 
 <div align="center">
 
-[![Swayam's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=swyxm&theme=tokyo-night&hide_border=true&bg_color=000F18&color=2C87A4&line=984F8C&point=c9d1d9&area=true&area_color=1a1225)](https://github.com/swyxm)
+[![Swayam's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=swyxm&theme=tokyo-night&hide_border=true&bg_color=000F18&color=2C87A4&line=984F8C&point=c9d1d9&area=true&area_color=000F18)](https://github.com/swyxm)
 
 [![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=swyxm&theme=tokyonight&background=0d0b1a&stroke=00ffd2&ring=ff4499&fire=00ffd2&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=00ffd2&border=1a1225)](https://git.io/streak-stats)
 
