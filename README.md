@@ -13,7 +13,7 @@
 
 ## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> About Me
 
-```
+
 const dev = {
   name: "swayam parekh",
   location: ["los angeles, ca ☀️", "san francisco, ca 🌉", "toronto, on 🍁"],
@@ -25,7 +25,6 @@ const dev = {
   vibeCheck: "🌸 aesthetic coding sessions"
 }
 
-```
 
 <div align="center">
 <img src="https://media.giphy.com/media/3o7qDSOvfaCO9b3MlO/giphy.gif" width="50">
