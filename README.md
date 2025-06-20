@@ -64,36 +64,7 @@ const dev = {
 
 ---
 
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30"> Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
-### 🚀 **AI-Powered Platform**
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="60" align="right">
-
-*Next.js • OpenAI • PostgreSQL*
-
-Real-time AI integration with **10K+ users**
-
-[![Live](https://img.shields.io/badge/Live-1a1225?style=for-the-badge&logo=vercel&logoColor=00FFD2)](https://github.com)
-
-</td>
-<td width="50%">
-
-### 🌐 **DeFi Trading Bot**
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="60" align="right">
-
-*Node.js • Web3 • MongoDB*
-
-Automated trading with **$500K+ volume**
-
-[![Live](https://img.shields.io/badge/Live-1a1225?style=for-the-badge&logo=ethereum&logoColor=E079CE)](https://github.com)
-
-</td>
-</tr>
-</table>
 
 ---
 
