@@ -20,9 +20,8 @@ const dev = {
     name: "swayam parekh",
     location: ["los angeles, ca ☀️","san francisco, ca 🌉", "toronto, on 🍁"]
     education: "usc ✌️🔴🟡", 
-    focus: ["Full-Stack", "AI/ML", "Web3"],
-    languages: ["JavaScript", "Python", "TypeScript", "Go"],
-    currently: "reimagining medtech",
+    languages: ["C++", "Python", "JavaScript", "TypeScript"],
+    currently: "working in sf",
     coffeeLevel: "☕️☕️☕️☕️☕️☕️☕️░░░ 75%",
 };
 ```
