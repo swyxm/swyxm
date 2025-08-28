@@ -74,7 +74,8 @@ const dev = {
 
 [![Swayam's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=swyxm&theme=tokyo-night&hide_border=true&bg_color=010812&color=0AA9DC&line=AA3495&point=E079CE&area=true&area_color=010812)](https://github.com/swyxm)
 
-[![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=swyxm&theme=tokyonight&background=010812&stroke=0AA9DC&ring=ff4499&fire=00ffd2&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=00ffd2&border=1a1225)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=swyxm&theme=tokyonight&background=010812&stroke=0AA9DC&ring=ff4499&fire=00ffd2&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=00ffd2&border=1a1225)](https://git.io/streak-stats)
+
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="80">
 
