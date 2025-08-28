@@ -93,6 +93,6 @@ const dev = {
 
 <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="100">
 
-![Visitor Counter](https://profile-counter.glitch.me/swyxm/count.svg)
+![Visitor Counter](https://komarev.com/ghpvc/?username=swyxm&color=blue&style=plastic&label=Profile+Views&abbreviated=true)
 
 </div>
