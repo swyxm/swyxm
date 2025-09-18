@@ -88,8 +88,8 @@ const dev = {
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-1a1225?style=for-the-badge&logo=safari&logoColor=0AA9DC)](https://swym.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1225?style=for-the-badge&logo=linkedin&logoColor=0AA9DC)](https://linkedin.com/in/swayampa)
-[![Twitter](https://img.shields.io/badge/Twitter-1a1225?style=for-the-badge&logo=twitter&logoColor=E079CE)](https://twitter.com/swayampa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1225?style=for-the-badge&logo=linkedin&logoColor=0AA9DC)](https://linkedin.com/in/swayamparekh)
+[![Twitter](https://img.shields.io/badge/Twitter-1a1225?style=for-the-badge&logo=twitter&logoColor=E079CE)](https://x.com/swayampa)
 [![Email](https://img.shields.io/badge/Email-1a1225?style=for-the-badge&logo=gmail&logoColor=E079CE)](mailto:swayampa@usc.edu)
 
 <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="100">
